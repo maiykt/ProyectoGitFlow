@@ -28,8 +28,6 @@ Este repositorio es un proyecto de ejemplo que demuestra el uso de Git Flow para
 
 
 
-# Cambiar de Rama
-
 # Cambiar a la rama de desarrollo
 git checkout develop
 
